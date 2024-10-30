@@ -1,4 +1,4 @@
 下载安装即可，也是之前在浏览器找的。
-windows版，因为软件功能单一，需要自己将软件拖入开机自启动目录
-1、某个用户：C:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-2、如果你不确定自己的身份，且电脑一般是自己使用，没有多用户的情况下，可使用所有用户均开机启动C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+windows版，因为软件功能单一，需要自己将软件拖入开机自启动目录方法有两种：
+第一种：某个用户：C:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup(别名"启动")
+第二种：如果你不确定自己的身份，且电脑一般是自己使用，没有多用户的情况下，可使用所有用户均开机启动C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup(别名"启动")
